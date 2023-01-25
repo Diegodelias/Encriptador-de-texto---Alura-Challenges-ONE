@@ -1,1 +1,1 @@
-![](uno.jpg)
+![](imagenes/uno.jpg)
